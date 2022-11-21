@@ -1,6 +1,5 @@
-import { ICategory, ICategoryMenuResponse } from "./ICategoryMenuResponse";
-import ISlideshowResponse, { ISlideShowDetails } from "./ISlideshowResponse";
+export { ICategory, ICategoryMenuResponse } from "./ICategoryMenuResponse";
+export { ISlideShowDetails, ISlideshowResponse } from "./ISlideshowResponse";
 
-export {
-    ICategory, ICategoryMenuResponse, ISlideShowDetails, ISlideshowResponse
-}
+
+export default {}

@@ -1,6 +1,3 @@
-import ICallOptions, { IHeaders } from "./types/ICallOptions";
+export { IHeaders, ICallOptions } from "./types/ICallOptions";
 
-export {
-    ICallOptions,
-    IHeaders
-}
+export default {}

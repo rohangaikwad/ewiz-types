@@ -57,7 +57,7 @@ interface Data {
     slideShowDetails: ISlideShowDetails;
 }
 
-export default interface ISlideshowResponse {
+export interface ISlideshowResponse {
     statusCode: string;
     message: string;
     data: Data | null;

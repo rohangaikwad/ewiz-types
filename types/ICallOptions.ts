@@ -8,7 +8,7 @@ export interface IHeaders {
     contentType: string;
 }
 
-export default interface ICallOptions {
+export interface ICallOptions {
     url: string;
     type: "GET" | "POST" | "HEAD" | "PUT" | "DELETE";
     headers: IHeaders;
