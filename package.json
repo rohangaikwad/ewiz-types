@@ -1,0 +1,21 @@
+{
+  "name": "ewiz-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohangaikwad/ewiz-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohangaikwad/ewiz-types/issues"
+  },
+  "homepage": "https://github.com/rohangaikwad/ewiz-types#readme"
+}
