@@ -1,8 +1,9 @@
 {
   "name": "ewiz-utils",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
-  "types": "index.d.ts",
+  "main": "index.ts",
+  "types": "ewiz-types.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

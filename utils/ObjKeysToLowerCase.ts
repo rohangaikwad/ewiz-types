@@ -1,4 +1,4 @@
-const ObjKeysToLowerCase = (input:any): any => {
+export const ObjKeysToLowerCase = (input:any): any => {
     if (typeof input !== 'object') return input;
     if (Array.isArray(input)) return input.map(ObjKeysToLowerCase);
     return Object.keys(input).reduce(function (newObj:any, key) {
@@ -8,5 +8,3 @@ const ObjKeysToLowerCase = (input:any): any => {
         return newObj;
     }, {});
 };
-
-export default ObjKeysToLowerCase;

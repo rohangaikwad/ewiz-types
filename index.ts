@@ -1,7 +1,4 @@
-import ObjKeysToLowerCase from "./utils/ObjKeysToLowerCase";
-import SVGImageURI from "./utils/SVGImageURI";
+export { ObjKeysToLowerCase } from "./utils/ObjKeysToLowerCase";
+export { SVGImageURI } from "./utils/SVGImageURI";
 
-export default {
-    ObjKeysToLowerCase,
-    SVGImageURI
-}
+export default {}
