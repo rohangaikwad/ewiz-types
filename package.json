@@ -1,6 +1,6 @@
 {
-  "name": "ewiz-types",
-  "version": "0.0.4",
+  "name": "ewiz-utils",
+  "version": "0.0.5",
   "description": "",
   "types": "index.d.ts",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/rohangaikwad/ewiz-types.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rohan Gaikwad",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rohangaikwad/ewiz-types/issues"
